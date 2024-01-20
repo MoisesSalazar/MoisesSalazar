@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,cssgrid,vim,cplusplus,python,c,java,javascript,csharp" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,cssgrid,vim,c++,python,c,java,javascript,csharp" />
   </a>
 </p>
 
@@ -47,9 +47,3 @@
     ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
     ![CodePen Badge](https://img.shields.io/badge/CodePen-000?logo=codepen&logoColor=fff&style=flat)
   
-\* Skills in study and improvement.
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-![](https://github-readme-stats.vercel.app/api?username=jeffdevx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeffdevx&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdevx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
