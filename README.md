@@ -1,102 +1,142 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Moises - Portafolio</title>
-    <!-- Enlazar con FontAwesome (asegúrate de tener conexión a internet) -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <style>
-        /* Estilos adicionales según tus preferencias */
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 20px;
-        }
-        h1 {
-            color: #3498db;
-        }
-        h2 {
-            color: #2ecc71;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        .icon {
-            margin-right: 5px;
-        }
-    </style>
-</head>
-<body>
+<!--Banner-->
+![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
 
-    <!-- Título Principal -->
-    <h1>¡Hola, soy Moises! 👋</h1>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-    <!-- Enlaces a Redes Sociales -->
-    <ul>
-        <li><i class="fab fa-linkedin icon"></i><a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">LinkedIn</a></li>
-        <li><i class="fab fa-twitter icon"></i><a href="https://twitter.com/tu-usuario-twitter" target="_blank">Twitter</a></li>
-        <li><i class="fab fa-github icon"></i><a href="https://github.com/tu-usuario-github" target="_blank">GitHub</a></li>
-    </ul>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
 
-    <hr>
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
-    <!-- Sección de Portafolio -->
-    <h2>Portafolio</h2>
-    <ul>
-        <li><a href="enlace-al-proyecto1">Proyecto 1 - Nombre del Proyecto</a></li>
-        <li><a href="enlace-al-proyecto2">Proyecto 2 - Nombre del Proyecto</a></li>
-    </ul>
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
+- 💁‍♂️ Volunteer MOD at **Dev Community**.
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+<!--End Intro-->
 
-    <hr>
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 
-    <!-- Sección de Habilidades -->
-    <h2>Habilidades</h2>
+---
+<br />
 
-    <!-- Lenguajes de Programación con Iconos -->
-    <h3>Lenguajes de Programación</h3>
-    <ul>
-        <li><i class="fab fa-js icon"></i>JavaScript</li>
-        <li><i class="fab fa-python icon"></i>Python</li>
-        <li><i class="fab fa-html5 icon"></i>HTML/CSS</li>
-    </ul>
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+</p>
+<br />
 
-    <!-- Frameworks y Bibliotecas con Iconos -->
-    <h3>Frameworks y Bibliotecas</h3>
-    <ul>
-        <li><i class="fab fa-react icon"></i>React.js</li>
-        <li><i class="fab fa-node-js icon"></i>Node.js</li>
-        <li><i class="fab fa-python icon"></i>Flask</li>
-    </ul>
 
-    <!-- Bases de Datos con Iconos -->
-    <h3>Bases de Datos</h3>
-    <ul>
-        <li><i class="fas fa-database icon"></i>MongoDB</li>
-        <li><i class="fas fa-database icon"></i>MySQL</li>
-        <li><i class="fas fa-database icon"></i>SQLite</li>
-    </ul>
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Kiran1689/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  </a>
+</p>
+<br />
 
-    <!-- Diseño con Iconos -->
-    <h3>Diseño</h3>
-    <ul>
-        <li><i class="fab fa-adobe icon"></i>Adobe Photoshop</li>
-        <li><i class="fab fa-figma icon"></i>Figma</li>
-        <li><i class="fab fa-sketch icon"></i>Sketch</li>
-    </ul>
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-    <!-- Herramientas de Desarrollo con Iconos -->
-    <h3>Herramientas de Desarrollo</h3>
-    <ul>
-        <li><i class="fab fa-git icon"></i>Git/GitHub</li>
-        <li><i class="fas fa-code icon"></i>VSCode</li>
-        <li><i class="fab fa-docker icon"></i>Docker</li>
-    </ul>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689/cryptos">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
-    <!-- Puedes agregar más secciones según sea necesario -->
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 
-</body>
-</html>
+---
+
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://twitter.com/kiran__a__n" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+------
+
+Credit: [Kiran1689](https://github.com/Kiran1689)
+
+Last Edited on: 29/11/2023
