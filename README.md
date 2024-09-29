@@ -63,9 +63,6 @@
 </table>
 
 <hr style="border: 2px solid #4A90E2;"/>
-
-<h2 align="center" style="color: #4A90E2;">🔗 Logos Importantes</h2>
-
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
